@@ -14,7 +14,7 @@ export const metadata: Metadata = {
         canonical: `/`,
     },
     openGraph: {
-        title: `${SITENAME} - Video Bokep Indo Jepang Barat Viral Terbaru`,
+        title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
         description: `${SITENAME} Video Bokep Indo Bocil Jepang Ngentot Jav Jilbab Smp Barat Mama Viral Sma Korea Tante China Live Paksa Bokep Abg Terbaru`,
         url: `/`,
         type: `website`,
